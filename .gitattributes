@@ -1,0 +1,5 @@
+src/**/*.lean -text
+*.py text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+lean-toolchain text eol=lf
